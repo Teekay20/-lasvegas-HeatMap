@@ -7,11 +7,8 @@ it relates to vegetation (NDVI), elevation, and land cover.
 ## Context
 
 Summer 2024 was the hottest on record in Las Vegas according to the National
-Weather Service (records from 1937). Source: [add the link you checked, for
-example https://www.ktnv.com/news/its-official-las-vegas-just-had-its-hottest-summer-on-record].
-This project looks at the satellite surface temperature pattern for that
-summer. It is descriptive. It does not measure health, energy or ecosystem
-effects.
+Weather Service (records from 1937). Source: [KTNV, "It's official: Las Vegas
+just had its hottest summer on record"](https://www.ktnv.com/news/its-official-las-vegas-just-had-its-hottest-summer-on-record).
 
 ## Questions
 
@@ -100,7 +97,5 @@ growing gap at higher elevation is not explained here.
 - Landsat and MODIS mean LST differ by about 6 °C over the same box, so only
   relative differences are reported.
 - Results depend on the box, the rural definition, and the NDVI threshold.
-
-|
 
 link to the project: [https://code.earthengine.google.com/a0dcf9907b0d8e8ab2a27d169e3d70bf](https://code.earthengine.google.com/774c3bbc0437f51ef68c43a9c00d06e0)
