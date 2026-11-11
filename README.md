@@ -85,10 +85,6 @@ The difference grows as the threshold rises, so it has no single value.
 | 800-900 | -2.5 |
 | 900-1000 | -3.0 |
 
-The sign of the built-up difference depends on how the reference is defined,
-so this analysis does not show a robust daytime surface heat island. The
-growing gap at higher elevation is not explained here.
-
 ## Limitations
 
 - One summer, one morning overpass, and a median of 11 scenes. Landsat gives
